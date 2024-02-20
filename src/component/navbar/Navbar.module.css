@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    width: calc(100 * 10px);
+  }
+  img{
+    width: 5%;
+    border-radius: 10px;
+  }
+  h2{
+    font-size: 30px;
+  }
+  nav{
+    display: flex;
+    gap: 30px;
+  
+  }
+  .flexNav a {
+    color: rgb(87, 38, 99);
+  }
